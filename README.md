@@ -1,4 +1,4 @@
 # OSRS-Projects
 Bots for various skills/activities.
 
-test
+These were created a while ago for use with the Powerbot client.
